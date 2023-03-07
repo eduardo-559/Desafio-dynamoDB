@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Wesley Safadão"},
+                  "SongTitle": {"S": "Código Cama"},
+                  "AlbumTitle": {"S": "Garota Vip"},
+                  "SongYear": {"S": "2013"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Gusttavo Lima"},
+                  "SongTitle": {"S": "Quem traiu levou"},
+                  "AlbumTitle": {"S": "Buteco"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Xand Avião"},
+                  "SongTitle": {"S": "Beber pra te esquecer"},
+                  "AlbumTitle": {"S": "Aviões Fantasy"},
+                  "SongYear": {"S": "2023"}
+                }
+            }
+        }
+      ]
+}
